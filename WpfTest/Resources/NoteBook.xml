@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data xmlns="">
+  <Operation Name="文件" Gesture="(F)">
+    
+    <Operation Name="新建" Gesture="(N)">
+      <Operation Name="项目" Gesture="(P)"/>
+      <Operation Name="存储库" Gesture="(R)"/>
+      <Operation Name="文件" Gesture="(F)"/>
+    </Operation>
+    
+    <Operation Name="打开" Gesture="(O)">
+      <Operation Name="项目/解决方案(P)" Gesture="(P)"/>
+      <Operation Name="文件夹" Gesture="(D)"/>
+      <Operation Name="网站" Gesture="(E)"/>
+      <Operation Name="CMake" Gesture="(M)"/>
+      <Operation Name="在源代码管理中打开" Gesture="(O)"/>
+      <Operation Name="文件" Gesture="(F)"/>
+      <Operation Name="转换" Gesture="(C)"/>
+    </Operation>
+
+    <Operation Name="起始页" Gesture="(E)"/>
+
+    <Operation Name="添加到源代码管理" Gesture=""/>
+
+    <Operation Name="添加" Gesture="(D)">
+      <Operation Name="新建项目" Gesture="(N)"/>
+      <Operation Name="现有项目" Gesture="(E)"/>
+      <Operation Name="现有网站" Gesture="(B)"/>
+    </Operation>
+
+    <Operation Name="关闭" Gesture="(C)"/>
+
+    <Operation Name="关闭解决方案" Gesture="(T)"/>
+
+    <Operation Name="保存" Gesture="(S)"/>
+
+    <Operation Name="全部保存" Gesture="(L)"/>
+    
+  </Operation>
+
+  <Operation Name="编辑" Gesture="(E)">
+
+    <Operation Name="新建" Gesture="(N)">
+      <Operation Name="项目" Gesture="(P)"/>
+      <Operation Name="存储库" Gesture="(R)"/>
+      <Operation Name="文件" Gesture="(F)"/>
+    </Operation>
+
+    <Operation Name="打开" Gesture="(O)">
+      <Operation Name="项目/解决方案(P)" Gesture="(P)"/>
+      <Operation Name="文件夹" Gesture="(D)"/>
+      <Operation Name="网站" Gesture="(E)"/>
+      <Operation Name="CMake" Gesture="(M)"/>
+      <Operation Name="在源代码管理中打开" Gesture="(O)"/>
+      <Operation Name="文件" Gesture="(F)"/>
+      <Operation Name="转换" Gesture="(C)"/>
+    </Operation>
+
+    <Operation Name="起始页" Gesture="(E)"/>
+
+    <Operation Name="添加到源代码管理" Gesture=""/>
+
+    <Operation Name="添加" Gesture="(D)">
+      <Operation Name="新建项目" Gesture="(N)"/>
+      <Operation Name="现有项目" Gesture="(E)"/>
+      <Operation Name="现有网站" Gesture="(B)"/>
+    </Operation>
+
+    <Operation Name="关闭" Gesture="(C)"/>
+
+    <Operation Name="关闭解决方案" Gesture="(T)"/>
+
+    <Operation Name="保存" Gesture="(S)"/>
+
+    <Operation Name="全部保存" Gesture="(L)"/>
+
+  </Operation>
+
+  <Operation Name="视图" Gesture="(V)">
+
+    <Operation Name="新建" Gesture="(N)">
+      <Operation Name="项目" Gesture="(P)"/>
+      <Operation Name="存储库" Gesture="(R)"/>
+      <Operation Name="文件" Gesture="(F)"/>
+    </Operation>
+
+    <Operation Name="打开" Gesture="(O)">
+      <Operation Name="项目/解决方案(P)" Gesture="(P)"/>
+      <Operation Name="文件夹" Gesture="(D)"/>
+      <Operation Name="网站" Gesture="(E)"/>
+      <Operation Name="CMake" Gesture="(M)"/>
+      <Operation Name="在源代码管理中打开" Gesture="(O)"/>
+      <Operation Name="文件" Gesture="(F)"/>
+      <Operation Name="转换" Gesture="(C)"/>
+    </Operation>
+
+    <Operation Name="起始页" Gesture="(E)"/>
+
+    <Operation Name="添加到源代码管理" Gesture=""/>
+
+    <Operation Name="添加" Gesture="(D)">
+      <Operation Name="新建项目" Gesture="(N)"/>
+      <Operation Name="现有项目" Gesture="(E)"/>
+      <Operation Name="现有网站" Gesture="(B)"/>
+    </Operation>
+
+    <Operation Name="关闭" Gesture="(C)"/>
+
+    <Operation Name="关闭解决方案" Gesture="(T)"/>
+
+    <Operation Name="保存" Gesture="(S)"/>
+
+    <Operation Name="全部保存" Gesture="(L)"/>
+
+  </Operation>
+
+  <Operation Name="项目" Gesture="(P)">
+
+    <Operation Name="新建" Gesture="(N)">
+      <Operation Name="项目" Gesture="(P)"/>
+      <Operation Name="存储库" Gesture="(R)"/>
+      <Operation Name="文件" Gesture="(F)"/>
+    </Operation>
+
+    <Operation Name="打开" Gesture="(O)">
+      <Operation Name="项目/解决方案(P)" Gesture="(P)"/>
+      <Operation Name="文件夹" Gesture="(D)"/>
+      <Operation Name="网站" Gesture="(E)"/>
+      <Operation Name="CMake" Gesture="(M)"/>
+      <Operation Name="在源代码管理中打开" Gesture="(O)"/>
+      <Operation Name="文件" Gesture="(F)"/>
+      <Operation Name="转换" Gesture="(C)"/>
+    </Operation>
+
+    <Operation Name="起始页" Gesture="(E)"/>
+
+    <Operation Name="添加到源代码管理" Gesture=""/>
+
+    <Operation Name="添加" Gesture="(D)">
+      <Operation Name="新建项目" Gesture="(N)"/>
+      <Operation Name="现有项目" Gesture="(E)"/>
+      <Operation Name="现有网站" Gesture="(B)"/>
+    </Operation>
+
+    <Operation Name="关闭" Gesture="(C)"/>
+
+    <Operation Name="关闭解决方案" Gesture="(T)"/>
+
+    <Operation Name="保存" Gesture="(S)"/>
+
+    <Operation Name="全部保存" Gesture="(L)"/>
+
+  </Operation>
+
+  <Operation Name="生成" Gesture="(B)">
+
+    <Operation Name="新建" Gesture="(N)">
+      <Operation Name="项目" Gesture="(P)"/>
+      <Operation Name="存储库" Gesture="(R)"/>
+      <Operation Name="文件" Gesture="(F)"/>
+    </Operation>
+
+    <Operation Name="打开" Gesture="(O)">
+      <Operation Name="项目/解决方案(P)" Gesture="(P)"/>
+      <Operation Name="文件夹" Gesture="(D)"/>
+      <Operation Name="网站" Gesture="(E)"/>
+      <Operation Name="CMake" Gesture="(M)"/>
+      <Operation Name="在源代码管理中打开" Gesture="(O)"/>
+      <Operation Name="文件" Gesture="(F)"/>
+      <Operation Name="转换" Gesture="(C)"/>
+    </Operation>
+
+    <Operation Name="起始页" Gesture="(E)"/>
+
+    <Operation Name="添加到源代码管理" Gesture=""/>
+
+    <Operation Name="添加" Gesture="(D)">
+      <Operation Name="新建项目" Gesture="(N)"/>
+      <Operation Name="现有项目" Gesture="(E)"/>
+      <Operation Name="现有网站" Gesture="(B)"/>
+    </Operation>
+
+    <Operation Name="关闭" Gesture="(C)"/>
+
+    <Operation Name="关闭解决方案" Gesture="(T)"/>
+
+    <Operation Name="保存" Gesture="(S)"/>
+
+    <Operation Name="全部保存" Gesture="(L)"/>
+
+  </Operation>
+
+  <Operation Name="调试" Gesture="(D)">
+
+    <Operation Name="新建" Gesture="(N)">
+      <Operation Name="项目" Gesture="(P)"/>
+      <Operation Name="存储库" Gesture="(R)"/>
+      <Operation Name="文件" Gesture="(F)"/>
+    </Operation>
+
+    <Operation Name="打开" Gesture="(O)">
+      <Operation Name="项目/解决方案(P)" Gesture="(P)"/>
+      <Operation Name="文件夹" Gesture="(D)"/>
+      <Operation Name="网站" Gesture="(E)"/>
+      <Operation Name="CMake" Gesture="(M)"/>
+      <Operation Name="在源代码管理中打开" Gesture="(O)"/>
+      <Operation Name="文件" Gesture="(F)"/>
+      <Operation Name="转换" Gesture="(C)"/>
+    </Operation>
+
+    <Operation Name="起始页" Gesture="(E)"/>
+
+    <Operation Name="添加到源代码管理" Gesture=""/>
+
+    <Operation Name="添加" Gesture="(D)">
+      <Operation Name="新建项目" Gesture="(N)"/>
+      <Operation Name="现有项目" Gesture="(E)"/>
+      <Operation Name="现有网站" Gesture="(B)"/>
+    </Operation>
+
+    <Operation Name="关闭" Gesture="(C)"/>
+
+    <Operation Name="关闭解决方案" Gesture="(T)"/>
+
+    <Operation Name="保存" Gesture="(S)"/>
+
+    <Operation Name="全部保存" Gesture="(L)"/>
+
+  </Operation>
+  
+  
+  <Operation Name="团队" Gesture="(M)">
+
+    <Operation Name="新建" Gesture="(N)">
+      <Operation Name="项目" Gesture="(P)"/>
+      <Operation Name="存储库" Gesture="(R)"/>
+      <Operation Name="文件" Gesture="(F)"/>
+    </Operation>
+
+    <Operation Name="打开" Gesture="(O)">
+      <Operation Name="项目/解决方案(P)" Gesture="(P)"/>
+      <Operation Name="文件夹" Gesture="(D)"/>
+      <Operation Name="网站" Gesture="(E)"/>
+      <Operation Name="CMake" Gesture="(M)"/>
+      <Operation Name="在源代码管理中打开" Gesture="(O)"/>
+      <Operation Name="文件" Gesture="(F)"/>
+      <Operation Name="转换" Gesture="(C)"/>
+    </Operation>
+
+    <Operation Name="起始页" Gesture="(E)"/>
+
+    <Operation Name="添加到源代码管理" Gesture=""/>
+
+    <Operation Name="添加" Gesture="(D)">
+      <Operation Name="新建项目" Gesture="(N)"/>
+      <Operation Name="现有项目" Gesture="(E)"/>
+      <Operation Name="现有网站" Gesture="(B)"/>
+    </Operation>
+
+    <Operation Name="关闭" Gesture="(C)"/>
+
+    <Operation Name="关闭解决方案" Gesture="(T)"/>
+
+    <Operation Name="保存" Gesture="(S)"/>
+
+    <Operation Name="全部保存" Gesture="(L)"/>
+
+  </Operation>
+</Data>
