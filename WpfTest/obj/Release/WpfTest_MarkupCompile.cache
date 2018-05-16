@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-E:\CSharpWorkPlace\WpfAnimationTest\WpfTest\obj\Debug\
+E:\CSharpWorkPlace\WpfAnimationTest\WpfTest\obj\Release\
 WpfTest
 none
 false
-DEBUG;TRACE
+TRACE
 E:\CSharpWorkPlace\WpfAnimationTest\WpfTest\App.xaml
 71963107463
 
-131712609058
+12-1880026626
 121654848548
 DataTemplate.xaml;HierarchicalDataTemplate.xaml;MainWindow.xaml;RectangleAndBrush.xaml;StoryBoard.xaml;TextBoxRound.xaml;VsMenuItem.xaml;
 
